@@ -1,11 +1,4 @@
 # 211ZTankDriveMotionAlgorithm
-Motion algorithm for tank drive using odometry and PID feedback loops
-
-
-
-
-
-# 211ZTankDriveMotionAlgorithm
 This is our motion algorithm for a tank drive using odometry and 2 PID feedback loops! It allows us to create precise autonomous routines with straight and point turn motions.
 
 
