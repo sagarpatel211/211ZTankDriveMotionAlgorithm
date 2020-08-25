@@ -6,7 +6,7 @@ This is our motion algorithm for a tank drive using odometry and 2 PID feedback 
 * [Dependencies](#dependencies)
 * [Installation](#installation)
 * [Features](#features)
-* [Use](#use)
+* [How To Use](#how-to-use)
 * [Contributors](#contributors)
 * [Contact](#contact)
 
@@ -95,7 +95,7 @@ void TurnPID(double angle_desired, double TurnkP, double TurnkI, double TurnkD){
 ```
 
 
-## Use
+## How To Use
 **To drive stright in autonomous:**
 ```
 StraightPID(distance in inches (Note: negative values = moving backwards), kP value, kI value, kD value);
